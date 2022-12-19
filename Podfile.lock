@@ -1,0 +1,32 @@
+PODS:
+  - Nuke (10.7.1)
+  - PromiseKit (6.18.1):
+    - PromiseKit/CorePromise (= 6.18.1)
+    - PromiseKit/Foundation (= 6.18.1)
+    - PromiseKit/UIKit (= 6.18.1)
+  - PromiseKit/CorePromise (6.18.1)
+  - PromiseKit/Foundation (6.18.1):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.18.1):
+    - PromiseKit/CorePromise
+  - Swinject (2.8.2)
+
+DEPENDENCIES:
+  - Nuke
+  - PromiseKit
+  - Swinject
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Nuke
+    - PromiseKit
+    - Swinject
+
+SPEC CHECKSUMS:
+  Nuke: 279f17a599fd1c83cf51de5e0e1f2db143a287b0
+  PromiseKit: 49d70c53d5d20e346beaea4b276b5dd2ab446bb4
+  Swinject: b4a11b31992e8668308dc594ba1cb9b3164a37ab
+
+PODFILE CHECKSUM: efd3a18ed4579fec359b6a0557ba6eba50c6f5bf
+
+COCOAPODS: 1.11.3
